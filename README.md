@@ -1,3 +1,6 @@
+
+![Screenshot 2023-03-07 191818](https://user-images.githubusercontent.com/70307019/223441296-32ab23b6-9db8-489b-b102-945a4c7ca417.png)
+
 <p align="center">Introduction</p>
 
 The RAILWAY RESERVATION SYSTEM is an easy ticket booking system for busy travelers. 
